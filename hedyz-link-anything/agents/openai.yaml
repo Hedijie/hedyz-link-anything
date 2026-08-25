@@ -1,0 +1,4 @@
+interface:
+  display_name: "HedyZ Link Anything"
+  short_description: "Connect any platform with HedyZ-guided setup"
+  default_prompt: "Use $hedyz-link-anything to help me connect a platform to Codex."
